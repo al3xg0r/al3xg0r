@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<a href="https://ko-fi.com/al3xg0r">
+  <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy me a coffee" />
+</a>
+
 <!--
 **al3xg0r/al3xg0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
