@@ -27,4 +27,4 @@ Every tip keeps my tutorials ad-free and my code independent ♥
 
 ### 📫 Reach me
 
-[alexgor.com](https://alexgor.com) · [Bluesky](https://bsky.app/profile/alexgor.com) · [Twitter/X](https://x.com/al3xg0r)
+[alexgor.com](https://alexgor.com) · [bluesky](https://bsky.app/profile/alexgor.com) · [twitter/x](https://x.com/al3xg0r)
