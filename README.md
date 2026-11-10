@@ -12,4 +12,4 @@
 
 ### 📫 Reach me
 
-[alexgor.com](https://alexgor.com) · [bluesky](https://bsky.app/profile/alexgor.com) · [twitter/x](https://x.com/al3xg0r)
+[alexgor.com](https://alexgor.com) · [bluesky](https://bsky.app/profile/alexgor.com) · [twitter/x](https://x.com/al3xg0r) · [patreon](https://patreon.com/al3xg0r) 
